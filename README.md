@@ -34,7 +34,7 @@ Bilgisayar Programcılığı Öğrencisi.
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### 🚀 Features
 * **Secure Storage:** Keep your sensitive notes and data safe with built-in security features.
